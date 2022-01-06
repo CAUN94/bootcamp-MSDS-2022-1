@@ -10,12 +10,14 @@ Syllabus: El objetivo de este curso es preparar a estudiantes en los siguientes 
 
 - Clase1 - Introducción a Python
 - Clase2 - Estructuras y OOP
-- Clase3 - Estructuras de Datos
-- Clase4 - Python y Data Science 1
-- Clase5 - Python y Data Science 2
-- Clase6 - SQL 1
-- Clase7 - SQL 2
-- Clase8 - Actividad Final
+- Clase3 - Estructuras de Datos Lineales
+- Clase4 - Estructuras de NO Datos Lineales
+- Clase5 - Algoritmos
+- Clase6 - Python y Data Science
+- Clase7 - SQL Modelamiento
+- Clase8 - SQL CRUD
+- Clase9 - Python SQL en la Nube
+- Clase10 - Actividad Final
 
 ### Recursos para el curso
 
