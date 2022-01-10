@@ -1,5 +1,5 @@
 # Profesor: Cristóbal Ugarte
-## _Mail: cristobla.ugarte@edu.uai.cl_
+## _Mail: cristobal.ugarte@edu.uai.cl_
 ### Métodos de Aprendizaje de Máquinas en Data Science
 
 Syllabus: El objetivo de este curso es preparar a estudiantes en los siguientes topicos
